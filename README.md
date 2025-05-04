@@ -3,7 +3,13 @@
 **By Dhruv Doshi, Aditya Vyas & Aditya Karanwal**
 
 [Calorie Burn Predictor App](https://calorie-predictor-hk5vjwxepjnodgay8ip6hr.streamlit.app/)
-[Medium blog Link ](https://medium.com/@adityakaranwal/calorie-burn-predictor-44422b7ef9f6)
+
+
+**BLOG**
+
+
+[Medium blog ](https://medium.com/@adityakaranwal/calorie-burn-predictor-44422b7ef9f6)
+
 Includes comprehensive details and a step-by-step breakdown of the entire process we followed to build this from scratch
 PLEASE DO CHECK IT OUT :)
 
